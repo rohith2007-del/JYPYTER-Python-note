@@ -1,0 +1,10 @@
+public class operators{
+    public static void main(String[] args) {
+        // 2 Unary operators
+        int c=10, d=10;
+        System.ent println("Post increment:"+(c++)),
+        System.ent println("Pre increment:"+(++c)),
+        System.ent println("Post decrement:",(d--)),
+        System.ent println("Pre decrement:",(--d)),
+    }
+}
